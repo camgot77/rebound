@@ -1,0 +1,21 @@
+Déposez ici vos photos (format JPG, idéalement 1200 px de large, ambiance sombre ou bleu-gris).
+L'appli les affiche automatiquement à la place des illustrations :
+
+  accueil.jpg    carte « Séance du jour » au repos, couverture du profil
+  pectoraux.jpg  programmes et exercices pectoraux
+  dos.jpg        dos
+  epaules.jpg    épaules
+  bras.jpg       biceps, triceps, avant-bras
+  jambes.jpg     jambes
+  abdos.jpg      abdos
+  fullbody.jpg   programmes Full Body et exercices personnalisés
+
+Le nom du fichier doit être exactement celui indiqué (minuscules, sans accent).
+Le dossier img/ doit être publié avec index propre.html.
+
+  fond.jpg       arrière-plan de toute l'application (sous un voile sombre)
+
+  anatomie-homme.jpg  planche anatomique masculine (face, profil, dos) de la section Anatomie
+  anatomie-femme.jpg  planche anatomique féminine (face, profil, dos) de la section Anatomie
+                      Les zones cliquables sont calées sur ces images précises : si vous les
+                      remplacez, il faut ajuster ANAT_IMG dans index propre.html.
